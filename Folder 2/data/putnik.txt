@@ -1,0 +1,11 @@
+Gacko-Bileca 37
+Gacko-Nevesinje 48
+Nevesinje-Bileca 46
+Bileca-Trebinje 32
+Bileca-Berkovici 32
+Bileca-Ljubinje 26
+Berkovici-Ljubinje 16
+Putnik
+Gacko
+Ljubinje
+255
